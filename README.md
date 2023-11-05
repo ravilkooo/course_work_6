@@ -95,6 +95,7 @@ $signal\_ {rate}$ - уровень исходного сигнала, $noise\_ {
 
 > $$\mu(noisy\_ {image}) = 0$$
 > $$d(noisy\_ {image}) = 1$$
+(5)
 
 #### Диффузионное расписание (Diffusion schedule)
 
